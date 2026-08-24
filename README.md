@@ -1,4 +1,11 @@
+💫 Hi 👋, I'm Avansh Singh
 
+C++ Developer || Full Stack Developer || AI/LLM Enthusiast
+
+I build things, solve problems, and explore AI — one project at a time. 🚀
+
+🔭 Currently building Full Stack & AI projects
+🌱 Learning DSA, Web Dev & LLMs
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avansh_chauhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Avansh-singh-90053b24a) 
 
